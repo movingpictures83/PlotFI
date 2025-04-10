@@ -1,0 +1,2 @@
+Prefix plugins/PlotFI/example/
+Plugin PlotFI inputfile parameters.txt outputfile output.png
